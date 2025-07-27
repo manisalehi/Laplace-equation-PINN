@@ -1,0 +1,7 @@
+numpy
+tensorflow==2.12.0 # Or ==2.10.0, as per project's tested compatibility with SciANN
+matplotlib
+scipy
+pydantic
+typing
+sciann
