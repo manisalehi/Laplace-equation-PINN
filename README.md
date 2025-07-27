@@ -38,7 +38,7 @@ To get this project up and running locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/manisalehi/2D-heat-equation-pinn](https://github.com/manisalehi/2D-heat-equation-pinn)
+    git clone [https://github.com/manisalehi/Laplace-equation-PINN](https://github.com/manisalehi/Laplace-equation-PINN)
     cd 2D-heat-equation
     ```
 2.  **Create a virtual environment (recommended):**
@@ -97,7 +97,7 @@ A selection of key references that informed this project's understanding and imp
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/manisalehi/2D-heat-equation/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/manisalehi/Laplace-equation-PINN/issues).
 
 ## 📄 License
 
@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Seyed Mani Seyed SalehiZadeh – manisalehi2004@gmail.com
 
-Project Link: [https://github.com/manisalehi/2D-heat-equation-pinn](https://github.com/manisalehi/2D-heat-equation-pinn)
+Project Link: [https://github.com/manisalehi/Laplace-equation-PINN](https://github.com/manisalehi/Laplace-equation-PINN)
